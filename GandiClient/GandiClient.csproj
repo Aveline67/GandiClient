@@ -1,8 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
-  
+  <PropertyGroup>
 <PackageId>GandiClient</PackageId>
 <Version>1.0.0</Version>
 <Authors>Nicolas Aveline</Authors>
+  </PropertyGroup>
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
